@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "minimist": "1.2.0",
-    "papaparse": "4.3.7",
+    "papaparse": "5.2.0",
     "ramda": "^0.25.0"
   }
 }
