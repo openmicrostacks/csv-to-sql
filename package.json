@@ -9,7 +9,7 @@
     "start": "rm -rf output && mkdir output && node main.js"
   },
   "dependencies": {
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "papaparse": "4.3.7",
     "ramda": "^0.25.0"
   }
